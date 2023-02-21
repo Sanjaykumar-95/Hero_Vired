@@ -1,0 +1,9 @@
+Thread  -> What and why?
+Ways to implement thresding in java
+critical section
+synchronisation
+deadlock
+code demonstration on deadlock
+
+Concurrent execution of your code
+utilize maximum CPU
